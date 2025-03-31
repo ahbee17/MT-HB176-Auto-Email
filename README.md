@@ -18,7 +18,7 @@ This project **automates emailing Montana state representatives** to express con
 
 ### ✅ Features  
 
-- ✉️ **Automatically sends personalized emails to senators**
+- ✉️ **Automatically sends personalized emails to representatives**
 - 📝 **Uses pre-defined email templates** to ensure messages are concise and effective
 - 📊 **Logs sent emails in a Google Sheet** for tracking
 - 🔄 **Supports both "Test Mode" and live sending**
